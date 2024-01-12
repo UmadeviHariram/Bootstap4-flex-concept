@@ -39,3 +39,8 @@ git clone https://github.com/UmadeviHariram/Bootstap4-flex-concept.git
 
 # Change into the project directory
 cd Bootstap4-flex-concept
+
+## How to Use
+
+1. Open `index.html` in a web browser.
+2. Click the any concept to view the detailed example of the selection concept.

@@ -33,8 +33,6 @@ Welcome to the Bootstrap Flex Concepts Showcase! This project demonstrates Boots
 
 ### Installation
 
-Provide step-by-step instructions on how to install or set up your project.
-
 ```bash
 # Clone the repository
 git clone https://github.com/UmadeviHariram/Bootstap4-flex-concept.git

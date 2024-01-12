@@ -1,0 +1,13 @@
+
+.back-btn {
+  position: absolute;
+  left: 26px;
+  transform: translate(0%,-50%);
+  bottom: 0;
+  color: #FFF;
+}
+
+.header-bg {
+  background: rgb(61,13,240);
+  background: linear-gradient(90deg, rgba(61,13,240,0.10830269607843135) 47%, rgba(15,0,201,0.8730085784313726) 100%);  
+}
